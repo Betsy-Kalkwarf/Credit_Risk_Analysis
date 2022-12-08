@@ -1,35 +1,36 @@
 ##Results
 
-Balanced Accuracy Scores ranged from 0.533 - 0.779
-Confusion Matrices were all over the place
-Precision for high-risk ranged from 0.01-0.88
-Precision for low-risk ranged from 0.99-1.00 (so all models great at this)
-Recall for high-risk ranged from 0.38-0.74
-Recall for low-risk ranged from 0.40-1.00
-*F1 for high-risk ranged from 0.01-0.53
-*F1 for low-risk ranged from 0.57-1.0
+Here are the ranges for some of the measurements:
+* Balanced Accuracy Scores ranged from 0.533 - 0.779
+* Confusion Matrices were all over the place
+* Precision for high-risk ranged from 0.01-0.88
+* Precision for low-risk ranged from 0.99-1.00 (so all models great at this)
+* Recall for high-risk ranged from 0.38-0.74
+* Recall for low-risk ranged from 0.40-1.00
+* F1 for high-risk ranged from 0.01-0.53
+* F1 for low-risk ranged from 0.57-1.0
 
-*Random Oversampling
+* Random Oversampling
 
 ![alt text](https://github.com/Betsy-Kalkwarf/Credit_Risk_Analysis/blob/main/Metrics/Random%20Oversampling.png)
 
-*SMOTE
+* SMOTE
 
 ![alt text](https://github.com/Betsy-Kalkwarf/Credit_Risk_Analysis/blob/main/Metrics/SMOTE%20Oversampling.png)
 
-*Cluster Centroid Oversampling
+* Cluster Centroid Oversampling
 
 ![alt text](https://github.com/Betsy-Kalkwarf/Credit_Risk_Analysis/blob/main/Metrics/Cluster%20Centroid%20Undersampling.png)
 
-*SMOTEENN
+* SMOTEENN
 
 ![alt text](https://github.com/Betsy-Kalkwarf/Credit_Risk_Analysis/blob/main/Metrics/SMOTEENN%20Combo.png)
 
-*Balanced Random Forest
+* Balanced Random Forest
 
 ![alt text](https://github.com/Betsy-Kalkwarf/Credit_Risk_Analysis/blob/main/Metrics/BalancedRandomForest.png)
 
-*AdaBoost
+* AdaBoost
 
 ![alt text](https://github.com/Betsy-Kalkwarf/Credit_Risk_Analysis/blob/main/Metrics/AdaBoost.png)
 
