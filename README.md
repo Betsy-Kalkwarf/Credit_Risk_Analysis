@@ -10,7 +10,7 @@
 
 *Random Oversampling
 
-![alt text]https://github.com/Betsy-Kalkwarf/Credit_Risk_Analysis/blob/main/Metrics/Random%20Oversampling.png
+(![alt text]https://github.com/Betsy-Kalkwarf/Credit_Risk_Analysis/blob/main/Metrics/Random%20Oversampling.png)
 
 *SMOTE
 
