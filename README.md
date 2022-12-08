@@ -1,4 +1,8 @@
-##Results
+## Overview
+This analysis tries to predict credit risk. Multiple machine learning algorithms from sci-kit learn were used. These include Random Oversampling, SMOTE, Cluster Centroid, SMOTEENN, Balanced Random Forest, and AdaBoost. Some of these algorithms worked better than others.
+
+
+## Results
 
 Here are the ranges for some of the measurements:
 * Balanced Accuracy Scores ranged from 0.533 - 0.779
@@ -34,7 +38,8 @@ Here are the ranges for some of the measurements:
 
 ![alt text](https://github.com/Betsy-Kalkwarf/Credit_Risk_Analysis/blob/main/Metrics/AdaBoost.png)
 
-##Summary
+## Summary
+
 Overall, the machine learning algorithms were much better at predicting low-risk than high-risk. This is partially because there was a lot more data for low-risk. Most of the algorithms had balanced accuracy scores under 70%, which don’t seem like good enough models for creditors measuring their risk. The only model I would consider using is the Balanced Random Forest with a balanced accuracy score of 0.779 but the precision for high-risk is very low at 0.03. Overall, I would suggest trying more models and maybe combining algorithms together to find better accuracy, precision, and recall.
 
 
