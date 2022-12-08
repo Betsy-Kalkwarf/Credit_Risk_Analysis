@@ -1,12 +1,13 @@
 ##Results
--Balanced Accuracy Scores ranged from 0.533 - 0.779
--Confusion Matrices were all over the place
--Precision for high-risk ranged from 0.01-0.88
--Precision for low-risk ranged from 0.99-1.00 (so all models great at this)
--Recall for high-risk ranged from 0.38-0.74
--Recall for low-risk ranged from 0.40-1.00
--F1 for high-risk ranged from 0.01-0.53
--F1 for low-risk ranged from 0.57-1.0
+
+Balanced Accuracy Scores ranged from 0.533 - 0.779
+Confusion Matrices were all over the place
+Precision for high-risk ranged from 0.01-0.88
+Precision for low-risk ranged from 0.99-1.00 (so all models great at this)
+Recall for high-risk ranged from 0.38-0.74
+Recall for low-risk ranged from 0.40-1.00
+*F1 for high-risk ranged from 0.01-0.53
+*F1 for low-risk ranged from 0.57-1.0
 
 *Random Oversampling
 
